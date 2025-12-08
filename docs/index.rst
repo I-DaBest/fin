@@ -6,8 +6,7 @@
 moVstudiocode documentation
 ===========================
 
-CHANGE THE NAME OF THE MODULE hello BELOW AFTER YOU CHANGE THE NAME OF hello.py TO MATCH YOUR PROJECT!
-Then you can change these documentation lines
+Documentation goes here
 
 .. automodule:: moVstudiocode
    :members: Katherine, Semcneil
