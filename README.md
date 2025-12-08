@@ -1,6 +1,4 @@
-#What I did so far:
--Put Prim's algorithm in there
--Found the movie database and attempted to put it in
--Made a code that would display reccomended movies
-
-I could not figure out how to make the code access the contents of the movie database
+#Movie recommendation code
+This code gives out reccomendations for a movie
+Change the movie_ids_to_query and movie_id to a certain number to find the movie for that movie id, and it will find similar movies
+All movies come from The Movie Database (tmdb)
